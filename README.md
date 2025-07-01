@@ -1,6 +1,9 @@
 # 🏋️ Vimal-Fitness
 This platform for goal‑oriented workout programs, nutrition advice, Diet plans, Competition training — built for fitness enthusiasts, trainers, and gym owners alike.
 
+# 🔭 Live Preview
+[https://vimalfitness.netlify.app/](https://vimalfitness.netlify.app/)
+
 # 🛠️ Technologies Used
 - HTML5 – Structure and layout of the web pages
 
